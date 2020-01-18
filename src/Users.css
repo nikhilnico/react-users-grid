@@ -1,0 +1,8 @@
+.users-list{
+    display: block;
+    width: 100%;
+}
+.users-list .row{
+    width: 25%;
+    float: left;
+}
