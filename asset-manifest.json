@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-users-grid/static/css/main.745fff78.chunk.css",
+    "main.js": "/react-users-grid/static/js/main.8f4d3add.chunk.js",
+    "main.js.map": "/react-users-grid/static/js/main.8f4d3add.chunk.js.map",
+    "runtime-main.js": "/react-users-grid/static/js/runtime-main.6461d899.js",
+    "runtime-main.js.map": "/react-users-grid/static/js/runtime-main.6461d899.js.map",
+    "static/js/2.dea7ba4a.chunk.js": "/react-users-grid/static/js/2.dea7ba4a.chunk.js",
+    "static/js/2.dea7ba4a.chunk.js.map": "/react-users-grid/static/js/2.dea7ba4a.chunk.js.map",
+    "index.html": "/react-users-grid/index.html",
+    "precache-manifest.2bcd6bfb887a37d2431f0d0da7b0b9c6.js": "/react-users-grid/precache-manifest.2bcd6bfb887a37d2431f0d0da7b0b9c6.js",
+    "service-worker.js": "/react-users-grid/service-worker.js",
+    "static/css/main.745fff78.chunk.css.map": "/react-users-grid/static/css/main.745fff78.chunk.css.map",
+    "static/js/2.dea7ba4a.chunk.js.LICENSE": "/react-users-grid/static/js/2.dea7ba4a.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6461d899.js",
+    "static/js/2.dea7ba4a.chunk.js",
+    "static/css/main.745fff78.chunk.css",
+    "static/js/main.8f4d3add.chunk.js"
+  ]
+}
